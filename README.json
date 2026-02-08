@@ -66,7 +66,7 @@
             "last_commit": "2026-02-03T05:27:19Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23163
+            "stars": 23166
           }
         }
       ],
@@ -134,7 +134,7 @@
             "last_commit": "2025-08-11T21:31:30Z",
             "owner": "Microsoft",
             "repo": "api-guidelines",
-            "stars": 23223
+            "stars": 23222
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-02-01T01:04:26Z",
             "owner": "go-resty",
             "repo": "resty",
-            "stars": 11519
+            "stars": 11521
           }
         }
       ],
@@ -419,7 +419,7 @@
             "last_commit": "2026-02-06T02:32:59Z",
             "owner": "reactiveui",
             "repo": "refit",
-            "stars": 9389
+            "stars": 9391
           }
         },
         {
@@ -497,10 +497,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-02-06T21:45:22Z",
+            "last_commit": "2026-02-08T00:44:36Z",
             "owner": "begriffs",
             "repo": "postgrest",
-            "stars": 26469
+            "stars": 26474
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2024-09-19T11:43:29Z",
             "owner": "restify",
             "repo": "node-restify",
-            "stars": 10719
+            "stars": 10720
           }
         },
         {
@@ -737,7 +737,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-02-01T09:53:31Z",
+            "last_commit": "2026-02-07T23:00:15Z",
             "owner": "apioo",
             "repo": "fusio",
             "stars": 2071
@@ -948,7 +948,7 @@
             "last_commit": "2026-01-25T20:14:55Z",
             "owner": "falconry",
             "repo": "falcon",
-            "stars": 9793
+            "stars": 9795
           }
         },
         {
@@ -958,10 +958,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-07T07:22:58Z",
+            "last_commit": "2026-02-07T23:37:32Z",
             "owner": "tiangolo",
             "repo": "fastapi",
-            "stars": 94866
+            "stars": 94884
           }
         },
         {
@@ -1121,7 +1121,7 @@
             "last_commit": "2026-02-06T16:35:34Z",
             "owner": "dropwizard",
             "repo": "dropwizard",
-            "stars": 8590
+            "stars": 8592
           }
         }
       ],
@@ -1145,7 +1145,7 @@
             "last_commit": "2024-12-17T17:30:35Z",
             "owner": "jkbrzt",
             "repo": "httpie",
-            "stars": 37498
+            "stars": 37510
           }
         },
         {
@@ -1171,7 +1171,7 @@
             "last_commit": "2026-02-01T06:15:38Z",
             "owner": "stedolan",
             "repo": "jq",
-            "stars": 33491
+            "stars": 33498
           }
         },
         {
@@ -1228,7 +1228,7 @@
             "last_commit": "2026-02-06T19:31:54Z",
             "owner": "getinsomnia",
             "repo": "insomnia",
-            "stars": 37907
+            "stars": 37912
           }
         },
         {
@@ -1261,10 +1261,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-05T08:35:34Z",
+            "last_commit": "2026-02-08T00:09:57Z",
             "owner": "schemathesis",
             "repo": "schemathesis",
-            "stars": 3022
+            "stars": 3025
           }
         },
         {
@@ -1319,10 +1319,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-01-29T01:13:35Z",
+            "last_commit": "2026-02-07T10:18:18Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75630
+            "stars": 75628
           }
         },
         {
@@ -1420,7 +1420,7 @@
             "last_commit": "2026-02-07T06:18:05Z",
             "owner": "Rebilly",
             "repo": "ReDoc",
-            "stars": 25472
+            "stars": 25473
           }
         },
         {
@@ -1433,7 +1433,7 @@
             "last_commit": "2026-02-01T05:54:12Z",
             "owner": "lord",
             "repo": "slate",
-            "stars": 36168
+            "stars": 36167
           }
         },
         {
@@ -1470,7 +1470,7 @@
             "last_commit": "2026-01-19T08:09:28Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 42697
+            "stars": 42706
           }
         },
         {
@@ -1483,7 +1483,7 @@
             "last_commit": "2026-02-06T16:34:20Z",
             "owner": "TykTechnologies",
             "repo": "tyk",
-            "stars": 10625
+            "stars": 10626
           }
         },
         {
@@ -1535,7 +1535,7 @@
             "last_commit": "2026-01-02T22:46:46Z",
             "owner": "devopsfaith",
             "repo": "krakend",
-            "stars": 6730
+            "stars": 6731
           }
         },
         {
@@ -1564,7 +1564,7 @@
             "last_commit": "2026-02-06T15:51:30Z",
             "owner": "marmelab",
             "repo": "shadcn-admin-kit",
-            "stars": 733
+            "stars": 734
           }
         },
         {
@@ -1574,10 +1574,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-07T06:19:28Z",
+            "last_commit": "2026-02-07T11:36:26Z",
             "owner": "marmelab",
             "repo": "react-admin",
-            "stars": 26516
+            "stars": 26517
           }
         },
         {
@@ -1590,7 +1590,7 @@
             "last_commit": "2020-06-01T07:58:30Z",
             "owner": "marmelab",
             "repo": "ng-admin",
-            "stars": 3920
+            "stars": 3921
           }
         },
         {
@@ -1603,7 +1603,7 @@
             "last_commit": "2026-02-05T15:13:42Z",
             "owner": "swagger-api",
             "repo": "swagger-codegen",
-            "stars": 17696
+            "stars": 17697
           }
         },
         {
@@ -1621,10 +1621,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:23:11.450Z",
+    "last_updated": "2026-02-08T04:35:30.580Z",
     "original_repository": "marmelab/awesome-rest",
     "source_repository": "v1nvn/enhansome-rest",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome REST with stars"
   }
 }
